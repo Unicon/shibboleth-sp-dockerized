@@ -1,5 +1,5 @@
 ## Overview
-This Docker image is Apache 2.4 with Shibboleth SP 3.0.3 installed running on CentOS 7.
+This Docker image is Apache 2.4 with Shibboleth SP 3.0.4 installed running on CentOS 7.
 
 This image can be used as a base image overriding the configuration with local changes.
 
